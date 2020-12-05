@@ -1,0 +1,13 @@
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.exe
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.deps.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.runtimeconfig.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.runtimeconfig.dev.json
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\bin\Debug\netcoreapp3.1\WeekFourChallenge.pdb
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.csprojAssemblyReference.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.AssemblyInfoInputs.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.AssemblyInfo.cs
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.dll
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.pdb
+C:\Users\fzr60\Documents\projects\elevenfifty\assignment\weekFourChallenge\WeekFourChallenge\WeekFourChallenge\obj\Debug\netcoreapp3.1\WeekFourChallenge.genruntimeconfig.cache
